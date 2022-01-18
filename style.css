@@ -1,0 +1,126 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'DM Sans', sans-serif;
+}
+
+
+
+#navbarbg {
+	background-color: #FCF5EB;
+}
+
+.navbar-brand { color:#BA4B2F; 
+}
+
+.nav-link { color:#BA4B2F; 
+}
+
+
+.landing {
+	width: 100%;
+  	height: auto;
+	background-image: url('./images/landing.png');
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+
+
+
+#intro {
+	color: #BA4B2F;
+}
+
+#aubrey{
+	color:#BA4B2F
+}
+
+#whoyou {
+	color: #BA4B2F;
+}
+
+
+
+#contactform {
+	background-color: #FCF5EB;
+}
+
+#form {
+	background-color: #E3A191;
+}
+
+#contactme {
+	color:#BA4B2F;
+}
+
+#circle {
+	border-radius: 50%;
+	border: 5px solid #BA4B2F;
+
+}
+
+
+#myprojects {
+	background-color: #FCF5EB;
+	color:#BA4B2F;
+}
+
+
+}
+
+#capstonecards { 
+	background-color: #FCF5EB;
+
+}
+
+#capstone1 {
+	background-color: #E3A191;
+}
+
+#capstone2 {
+	background-color: #E3A191;
+}
+
+#capstone3 {
+	background-color: #E3A191;
+}
+
+
+
+.card { 
+	width: 18rem;
+}
+
+.card-text {
+	color: black;
+}
+
+
+.card-subtitle {
+	color: #BA4B2F; 
+}
+
+
+#connect {
+	background-color: #FCF5EB;
+}
+
+
+#organization {
+	background-color: #FCF5EB;
+}
+
+.orgtext {
+	color: #BA4B2F;
+}
+
+
+#org {
+	background-color: white ;
+}
